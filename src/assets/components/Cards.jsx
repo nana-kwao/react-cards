@@ -1,7 +1,8 @@
+
 const Cards = () => {
   const cardsData = [
     {
-      img: "../src/assets/daily.jpeg",
+      img: "daily.jpeg",
       heading: "Daily Plan",
       desc: "Stay connected all day with our affordable daily data bundle.",
       newprice: 1.99,
@@ -14,7 +15,7 @@ const Cards = () => {
       ],
     },
     {
-      img: "../src/assets/weekly.jpeg",
+      img: "weekly.jpeg",
       heading: "Weekly Plan",
       desc: "Perfect for moderate users who need reliable data through the week.",
       newprice: 6.99,
@@ -27,7 +28,7 @@ const Cards = () => {
       ],
     },
     {
-      img: "../src/assets/monthly.jpeg",
+      img: "monthly.jpeg",
       heading: "Monthly Plan",
       desc: "Heavy user? Get more value with our best-selling monthly bundle.",
       newprice: 19.99,
